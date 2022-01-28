@@ -9,7 +9,7 @@ If you want to learn more about MongoDB, visit the following pages:
 
 
 ### Run Next.js in development mode
-
+### Bilgisayarınızda Node.js yüklü olmalıdır!
 ```bash
 npm install
 npm run dev
